@@ -1,4 +1,5 @@
 Cyborg Monday Deals at https://dngr.us/cyborg
+
 | Implant | SOON™ yet? |
 | ------- | ---------- |
 | [Apex Flex](https://forum.dangerousthings.com/t/vivokey-apex-update/8850) | **NO** |
