@@ -1,5 +1,3 @@
-# Is it SOON(tm) yet?
-
 | Product | SOON(tm) yet? |
 | --------------- | --------------- |
 | Apex Flex | **NO** |
