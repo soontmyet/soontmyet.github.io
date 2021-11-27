@@ -1,4 +1,4 @@
-Cyborg Monday Deals at https://dngr.us/cyborg
+Cyborg Monday Deals at [dngr.us/cyborg](https://dngr.us/cyborg)
 
 | Implant | SOON™ yet? |
 | ------- | ---------- |
