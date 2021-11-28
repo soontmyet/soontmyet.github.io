@@ -1,4 +1,6 @@
-## officially announced implants
+# Is it SOON™ yet?
+
+## info about implants
 
 This site does not include paywalled info from the [DT Club](https://doeum.dangerousthings.com/s).
 
