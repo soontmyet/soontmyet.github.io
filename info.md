@@ -27,7 +27,7 @@ The flexNT v2 will basically be a rainbow "flexSIID".
 [YT Video: flexNT2 "fast" and "slow" Flash Versions](https://www.youtube.com/watch?v=PIb9lqYM2UI)
 
 ### NExT v2
-The flexNT v2 will basically be a NExT with LED.
+The NExT v2 will basically be a NExT with LED.
 
 **Resources**  
 [Discord: "I'm already in the middle of the NExT2 which has an LED, NTAG I2C Plus, and a T5577"](https://www.youtube.com/watch?v=PIb9lqYM2UI)
