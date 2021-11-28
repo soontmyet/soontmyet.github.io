@@ -9,6 +9,6 @@ Cyborg Monday Deals at [dngr.us/cyborg](https://dngr.us/cyborg)
 | [xMagic](/info#xmagic) | **NO** |
 | [CoM Conversions](/info#com-conversions) | **NO** |
 
-![](https://media.giphy.com/media/5xtDarzgzG6eu6uVwI0/giphy.gif)
+![dangerousthings-illumination](https://user-images.githubusercontent.com/95120860/143782522-c02ba0ab-5f62-4a06-a5bf-feec8ecef6db.gif)
 
 [GitHub](https://github.com/soontmyet/soontmyet.github.io)
