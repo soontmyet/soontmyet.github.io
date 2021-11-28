@@ -1,7 +1,3 @@
-# Is it SOON™ yet?
-
-## info about implants
-
 This site does not include paywalled info from the [DT Club](https://doeum.dangerousthings.com/s).
 
 ### Apex Flex
@@ -46,3 +42,7 @@ A new type of payment chip conversion. "Coil on Module" payment cards could be c
 
 **Resources**  
 [YT Video: CoM Chip Conversion First Payment](https://www.youtube.com/watch?v=Xr4uPm84-8k)
+
+---
+
+[Home](/)
