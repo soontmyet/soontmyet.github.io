@@ -1,9 +1,5 @@
 This site does not include paywalled info from the [DT Club](https://doeum.dangerousthings.com/s).
-Apex Flex: ***
-Apex Mega: ****
-flexNT v2: **
-NExT v2: *
-xMagic: *
+
 ### Apex Flex
 The [VivoKey Apex](https://vivokey.com/apex), the implantable smart card.  
 With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
