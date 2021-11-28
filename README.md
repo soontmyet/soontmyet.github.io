@@ -1,5 +1,7 @@
 Cyborg Monday Deals at [dngr.us/cyborg](https://dngr.us/cyborg)
 
+**New Project Alert** entry for "xMagic" added
+
 | Implant | SOON™ yet? |
 | ------- | ---------- |
 | [Apex Flex](/info#apex-flex) | **NO** |
