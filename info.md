@@ -1,5 +1,3 @@
-This site does not include paywalled info from the [DT Club](https://doeum.dangerousthings.com/s).
-
 ### Apex Flex
 The [VivoKey Apex](https://vivokey.com/apex), the implantable smart card.  
 With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
@@ -12,7 +10,7 @@ With applets like PGP, OTP and WebAuthN, the Apex line will be a game changer.
 [DT Forum: VivoKey Apex update](https://forum.dangerousthings.com/t/vivokey-apex-update/8850)  
 
 ### Apex Mega
-The VivoKey Apex as jumbo implant.
+The [VivoKey Apex](#apex-flex) as jumbo implant.
 
 ![image](https://user-images.githubusercontent.com/95120860/143735443-88549d88-a633-404a-834a-3148570540a5.png)
 
@@ -57,5 +55,6 @@ A new type of payment chip conversion. "Coil on Module" payment cards could be c
 [YT Video: CoM Chip Conversion First Payment](https://www.youtube.com/watch?v=Xr4uPm84-8k)
 
 ---
+This site does not include paywalled info from the [DT Club](https://forum.dangerousthings.com/s).
 
 [Home](/)
