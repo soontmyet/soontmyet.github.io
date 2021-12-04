@@ -1,6 +1,4 @@
-Cyborg Monday Deals at [dngr.us/cyborg](https://dngr.us/cyborg)
-
-**New Project Alert** entry for "xMagic" added
+### NO!
 
 | Implant | SOON™ yet? |
 | ------- | ---------- |
