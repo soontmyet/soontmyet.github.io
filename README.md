@@ -1,4 +1,4 @@
-<div style="fonz-size: 35px">NO!</div>
+<div style="text-align: center; font-size: 100px">NO!</div>
 
 | Implant | SOON™ yet? |
 | ------- | ---------- |
