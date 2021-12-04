@@ -1,4 +1,9 @@
-<div style="text-align: center; font-size: 100px">NO!</div>
+<div style="text-align: center">
+<div style="font-size: 100px">
+  
+NO!
+  
+</div>
 
 | Implant | SOON™ yet? |
 | ------- | ---------- |
@@ -11,4 +16,7 @@
 
 ![dangerousthings-illumination](https://user-images.githubusercontent.com/95120860/143782522-c02ba0ab-5f62-4a06-a5bf-feec8ecef6db.gif)
 
+</div>
+
+---
 [GitHub](https://github.com/soontmyet/soontmyet.github.io)
